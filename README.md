@@ -32,7 +32,7 @@ I am a passionate B.C.A student at veer kunwar singh University , driven by a cu
 
 ## 📬 Get in Touch
 
-- Connect with me on [Twitter](https://twitter.com/introvertedbot)
+- Connect with me on [Twitter]([https://twitter.com/introvertedbot](https://twitter.com/adit_yaa1?t=2o-eoX_sVhprafFI9KMpfA&s=09))
 - Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
