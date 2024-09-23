@@ -1,10 +1,10 @@
 # Hi, I'm Aditya! 👋
 
-I am a passionate B.C.A student at veer kunwar singh University , driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+I am a passionate M.C.A student at University of Petroleum and Energy Studies , driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Bachelor's in Computer Science at veer kunwar singh University .
+- 🔭 I'm currently pursuing my Masters in Computer Science at University of Petroleum and Energy Studies.
 - 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
 - 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
 - ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
@@ -33,6 +33,8 @@ I am a passionate B.C.A student at veer kunwar singh University , driven by a cu
 ## 📬 Get in Touch
 
 - Connect with me on [Twitter](https://twitter.com/adit_yaa1?t=2o-eoX_sVhprafFI9KMpfA&s=09)
+- [HACKER RANK](https://www.hackerrank.com/profile/adi6raj0)
+- [Leet Code](https://leetcode.com/u/adii_010/)
 - Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
