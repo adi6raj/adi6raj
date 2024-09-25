@@ -37,7 +37,7 @@ I am a passionate M.C.A student at University of Petroleum and Energy Studies , 
 - [Leet Code](https://leetcode.com/u/adii_010/)
 - Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
 
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+Thanks for Stalk me! Let's connect and explore the fascinating world of technology together. 🚀
 
 
 
