@@ -26,7 +26,6 @@ I am a passionate M.C.A student at University of Petroleum and Energy Studies , 
 - Connect with me on [Twitter](https://twitter.com/adit_yaa1?t=2o-eoX_sVhprafFI9KMpfA&s=09)
 - [HACKER RANK](https://www.hackerrank.com/profile/adi6raj0)
 - [Leet Code](https://leetcode.com/u/adii_010/)
-- Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
 
 Thanks for Stalk me! Let's connect and explore the fascinating world of technology together. 🚀
 
