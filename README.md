@@ -27,7 +27,14 @@ I am a passionate M.C.A student at University of Petroleum and Energy Studies , 
 - [HACKER RANK](https://www.hackerrank.com/profile/adi6raj0)
 - [Leet Code](https://leetcode.com/u/adii_010/)
 
-Thanks for Stalk me! Let's connect and explore the fascinating world of technology together. 🚀
+## Feel free😊 to reach out if you'd like to collaborate🫂 or just say hello👋!
+- **Email📬**: [adi6raj0@gmail.com](mailto:adi6raj0@gmail.com)  
+- **LinkedIn🔗**: [LinkedIn Profile](https://www.linkedin.com/in/aditya-kumar-b359b3257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- **Instagram📷**: [Instagram profile](https://instagram.com/uknow__aman)
+- **Twitter🕊️**: [Twitter profile](https://twitter.com/adit_yaa1)
+- 
+
+                                     Thanks for Stalk me! Let's connect and explore the fascinating world of technology together. 🚀
 
 
 
